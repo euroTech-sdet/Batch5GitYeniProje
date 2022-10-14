@@ -6,6 +6,6 @@ public class Feride2 {
         System.out.println("Isa hoca sohbeti seviyor");
         System.out.println("Hakan hoca kafa karistiriyor");
         System.out.println("Gözlüklüler caliskandir");
-        System.out.println("Feride sabirsiz");
+        System.out.println("Feride sabirsiz.");
     }
 }
