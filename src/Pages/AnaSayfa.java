@@ -1,7 +1,11 @@
 package Pages;
 
 public class AnaSayfa {
-    // ben yarin geliyorum
-    // yasasin dunya
-    // Hersey guzel olacak
+    public static void main(String[] args) {
+
+        // ben yarin geliyorum
+        // yasasin dunya
+        // Hersey guzel olacak
+    }
+
 }
