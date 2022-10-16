@@ -6,5 +6,6 @@ public class FatihSeleniumTest {
 
         System.out.println("Fatih Selenium File olusturuldu");
         System.out.println("Test execute edildi");
+        System.out.println("Login metodu yazildi");
     }
 }
