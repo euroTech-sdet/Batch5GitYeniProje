@@ -4,5 +4,8 @@ public class SeleniumTest {
     public static void main(String[] args) {
         System.out.println("TEST1");
         System.out.println("TEST2");
+        // ensar test1 genel method
+        // ensar test2 genel method
+        // ensar test3 genel method
     }
 }
