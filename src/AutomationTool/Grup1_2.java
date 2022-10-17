@@ -11,5 +11,8 @@ public class Grup1_2 {
         //Grup Test
         //Selam
 
+        //EMRE TEST1
+        //EMRE TEST2
+        //EMRE TEST3
     }
 }
