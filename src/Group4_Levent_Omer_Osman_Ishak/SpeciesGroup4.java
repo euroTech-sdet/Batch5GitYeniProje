@@ -8,6 +8,6 @@ public class SpeciesGroup4 {
         if ( conflicts > 3 ) System.out.println("I need more coffee");
         // Completed first control
         // Made Modifications
-        System.out.println("All article completed by Ishak");
+        System.out.print("All article completed by Ishak");
     }
 }
