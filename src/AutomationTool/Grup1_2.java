@@ -7,5 +7,9 @@ public class Grup1_2 {
         // for loop
         // OOP
 
+        //Ay Test
+        //Grup Test
+        //Selam
+
     }
 }
