@@ -7,5 +7,6 @@ public class SpeciesGroup4 {
         // Completed first control
         // Made Modifications
         System.out.print("All article completed by Ishak");
+        System.out.println("Alle Artikel wurde von LeventAydin üperprüft");
     }
 }
